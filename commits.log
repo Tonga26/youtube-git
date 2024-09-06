@@ -1,0 +1,98 @@
+commit 48a089a67664a14e2257f51531a67f4965e2c8a6
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:55:12 2024 -0300
+
+    Agregando 2 párrafos
+
+commit 816b04e082693ecf6784bd66b4e549508e4c4522
+Merge: 8588139 ee26c4b
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:53:03 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 858813981a2f3dcfac42eb1a87005c6d9262d42a
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:33:39 2024 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit ee26c4b68aa936026fc80f2542660be953eded7d
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:33:39 2024 -0300
+
+    Agregando las estaciones del año
+
+commit 5b2a861fdf878e4268f2b008491cd1a8fabdbe63
+Merge: 3393b5c e6d195c
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:27:00 2024 -0300
+
+    Resolviendo conflicto merge main html en el documento index.html
+
+commit e6d195c17363b9e6d9ecc43c8e487898a85db3c6
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:20:47 2024 -0300
+
+    Agregando index.js al index.html
+
+commit 3393b5c87f0e99bc088aa087459de39398af85cd
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:17:21 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 4803620d62bae319e7964104fee47dd26b2c7860
+Merge: 43ff397 b8f99e6
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 10:06:28 2024 -0300
+
+    Merge branch 'js'
+
+commit b8f99e6ed002a9aed5aaa03fcffb0a33be92b52a
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 09:49:24 2024 -0300
+
+    Creando index.js
+
+commit 43ff397528e45aa076d022755100992b9116ac47
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 09:43:40 2024 -0300
+
+    Creando style.css
+
+commit 8d2205acad5b881f42aa9fe82451b1401c445219
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 09:39:42 2024 -0300
+
+    Creando index.html
+
+commit e0e4921a0febe4480caac93cdd653845b44d9204
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Thu Sep 5 09:19:04 2024 -0300
+
+    Ignorando archivos .exe
+
+commit 2d1bb7518a172787b4faffb25936e03c674602fd
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Wed Sep 4 12:01:18 2024 -0300
+
+    Creando licencia del repositorio
+
+commit 2f4222a7e9ad4101824c3e8499adb9459110f286
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Wed Sep 4 11:23:23 2024 -0300
+
+    Agregando más contenido al README
+
+commit 9f845713e3c6ed99e162d945e939b1c140622efb
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Wed Sep 4 11:10:31 2024 -0300
+
+    Agregando contenido inicial al README
+
+commit 50230b585d82c7de35938226dc3f1f5cf37dfb98
+Author: Gaston <gastongiorgio26@gmail.com>
+Date:   Wed Sep 4 11:06:32 2024 -0300
+
+    Primer commit 😀
